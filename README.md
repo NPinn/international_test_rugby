@@ -15,4 +15,5 @@
 3. Build Historical Rankings
     1. Will need to consult World Rugby for how rankings are (and have been) done
 4. Build Head-To-Heads & Team Performances
+5. [Scorigami](https://nflscorigami.com), but Rugby?
 ------
