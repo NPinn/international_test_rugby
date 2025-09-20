@@ -32,3 +32,19 @@ def fetch_wikipedia_page(title: str) -> dict:
     plain_text = soup.get_text()
 
     return plain_text
+
+def search_wikipedia(query: str, limit: int = 100):
+    """
+    Search Wikipedia for a term and return up to `limit` page titles.
+    """
+    params = {
+        "action": "query",
+        "list": "search",
+        "format": "json",
+        "srsearch": query
+    }
+    
+    response = requests.get(WIKI_API_URL, headers=HEADERS, params=params)
+    data = response.json()
+    
+    return [r["title"] for r in data["query"]["search"][:limit]]
