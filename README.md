@@ -9,7 +9,7 @@
 - Tournament Perofmances can also be tracked, where appropriate
 ------
 ## Tasks:
-1. Scrape all Tests from the [List of Women's Test Matches Wikipedia page](https://en.wikipedia.org/wiki/List_of_women%27s_international_rugby_union_test_matches)
+1. Scrape all Tests from the [List of Women's Test Matches Wikipedia page](https://en.wikipedia.org/wiki/List_of_women%27s_international_rugby_union_test_matches) (Complete)
     1. Recursively extract tournament results from linked pages
 2. Structure Results, including indications for Home Team and Tournament
 3. Build Historical Rankings
