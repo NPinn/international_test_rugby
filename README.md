@@ -10,7 +10,10 @@
 ------
 ## Tasks:
 1. Scrape all Tests from the [List of Women's Test Matches Wikipedia page](https://en.wikipedia.org/wiki/List_of_women%27s_international_rugby_union_test_matches) (Complete)
-    1. Recursively extract tournament results from linked pages
+    1. Recursively extract tournament results from linked pages (TBC)
+    - As of 07/10/25:
+        - Scraping Tournaments from Wikipedia proved to require more manual refinment than initially thought
+        - An API will be used instead, with this being revisited later
 2. Structure Results, including indications for Home Team and Tournament
 3. Build Historical Rankings
     1. Will need to consult World Rugby for how rankings are (and have been) done
