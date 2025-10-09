@@ -1,10 +1,10 @@
-<h1><p align="center">International Women's Rugby Union Data Project</p></h1>
+<h1><p align="center">International Test Rugby Union Data Project</p></h1>
 
 - Author: [Nathan Pinnock](https://www.linkedin.com/in/nathan-pinnock)
-- Version 0.0.1
+- Version 0.1.
 ------
 ## Project Purpose
-- This is a Data Science/Analytics Project looking to build a database of all Tests played in women's rugby
+- This is a Data Science/Analytics Project looking to build a database of all Rugby Tests played throughout history
 - From this; historical rankings can be calculated, as well as head-to-heads and each Nation's/Teams Perfomance
 - Tournament Perofmances can also be tracked, where appropriate
 ------
