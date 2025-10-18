@@ -1,22 +1,33 @@
 <h1><p align="center">International Test Rugby Union Data Project</p></h1>
 
 - Author: [Nathan Pinnock](https://www.linkedin.com/in/nathan-pinnock)
-- Version 0.1.
+- Version 0.1.1
 ------
 ## Project Purpose
 - This is a Data Science/Analytics Project looking to build a database of all Rugby Tests played throughout history
-- From this; historical rankings can be calculated, as well as head-to-heads and each Nation's/Teams Perfomance
-- Tournament Perofmances can also be tracked, where appropriate
+- From this; a historical version of world rankings can be calculated alongside replicating World Rugby rankings, as well as head-to-heads and each Nation's/Teams Perfomance
+- Tournament Perofmances can also be tracked
+------
+## Project Logic
+- The Logic for this project, as well as any changes in logic over time, can be found in the [Project Logic](./docs/project_logic.md) file
 ------
 ## Tasks:
-1. Scrape all Tests from the [List of Women's Test Matches Wikipedia page](https://en.wikipedia.org/wiki/List_of_women%27s_international_rugby_union_test_matches) (Complete)
-    1. Recursively extract tournament results from linked pages (TBC)
-    - As of 07/10/25:
-        - Scraping Tournaments from Wikipedia proved to require more manual refinment than initially thought
-        - An API will be used instead, with this being revisited later
-2. Structure Results, including indications for Home Team and Tournament
-3. Build Historical Rankings
-    1. Will need to consult World Rugby for how rankings are (and have been) done
-4. Build Head-To-Heads & Team Performances
-5. [Scorigami](https://nflscorigami.com), but Rugby?
+1. Scrape all rugby matches from the appropraite API (Complete)
+    1. Extract only international matches, using nation team Ids (Complete)
+2. Structure Results
+    1. This will include properly populating historical scores, especially 19th Century matches
+    - Details on scoring are detailed in the [History of Scoring in Rugby Union](./docs/history_of_scoring_in_rugby_union.md) file
+3. Set up a database for these results
+    - Potentiall using [DuckDB](https://duckdb.org/)?
+4. Systematically populate this database with new matches
+5. Build Analytics based on these results
+    - These analytics will include (but aren't limited to):
+    1. World Rankings
+        1. Replicate Current World Rankings
+        2. Produce Historical Rankings dating back to first International Match
+        - Will need to consult World Rugby for how rankings are (and have been) done
+    2. Team Performances & Head-To-Heads
+    3. Tournament Performances
+    4. [Scorigami](https://nflscorigami.com), but Rugby?
+    5. All of the above, but using all of the different scoring systems used over time
 ------
