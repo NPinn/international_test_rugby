@@ -12,8 +12,8 @@
 - The Logic for this project, as well as any changes in logic over time, can be found in the [Project Logic](./docs/project_logic.md) file
 ------
 ## Tasks:
-1. Scrape all rugby matches from the appropraite API (Complete)
-    1. Extract only international matches, using nation team Ids (Complete)
+1. _Scrape all rugby matches from the appropraite API (**Complete**)_
+    1. _Extract only international matches, using nation team Ids (**Complete**)_
 2. Structure Results
     1. This will include properly populating historical scores, especially 19th Century matches
     - Details on scoring are detailed in the [History of Scoring in Rugby Union](./docs/history_of_scoring_in_rugby_union.md) file
