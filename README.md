@@ -1,7 +1,7 @@
 <h1><p align="center">International Test Rugby Union Data Project</p></h1>
 
 - Author: [Nathan Pinnock](https://www.linkedin.com/in/nathan-pinnock)
-- Version 0.1.1
+- Version 0.1.3
 ------
 ## Project Purpose
 - This is a Data Science/Analytics Project looking to build a database of all Rugby Tests played throughout history

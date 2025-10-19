@@ -15,5 +15,8 @@
     - This also allowed for both Women's and Men's matches to be processed concurrently
 ------
 ## Scoring
-- The Scoring Sysems used over the history of Rugby Union has changed over time. The details and implementation logic can be found in the [History of Scoring in Rugby Union](./history_of_scoring_in_rugby_union.md) file.
+- The Scoring Sysems used over the history of Rugby Union has changed over time. The details and implementation logic can be found in the latest [History of Scoring in Rugby Union](./history_of_scoring_in_rugby_union_latest.md) file.
+### Updates to Scoring
+- 2025-10-19:
+    - Upon investigating the data in more detail, it was found that matches upto the [1889 Home Nations Championship](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship) were using Scoring System 2, base on [Version 1](./history_of_scoring_in_rugby_union_v1.md) of the Scoring Documentation File
 ------
