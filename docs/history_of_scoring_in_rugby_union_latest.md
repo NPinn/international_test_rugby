@@ -1,7 +1,7 @@
 # The History of Scoring in Rugby Union
 -----
-## Updated: 2025-10-19
-## Version: 2.0.1
+- Updated: 2025-10-19
+- Version: 2.0.1
 -----
 - The history of scoring in Rugby Union is a fascinating subject, and has seen numerous changes since the inception of rugby
     - For instance, the first 14 years of international rugby saw matches decided by the number of goals scored, rather than the number of points scored
