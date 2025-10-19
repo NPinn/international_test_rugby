@@ -6,11 +6,11 @@
     - This data is sourced from [Rugby Football History](https://www.rugbyfootballhistory.com/), specifically their page on [Scoring Through the Ages](https://www.rugbyfootballhistory.com/scoring.htm)
 -----
 ## Scoring over Time
-| Date | Try | Conversion | Penalty | Dropped Goal | Goal From Mark | Scoring System Flag | Notes |
+| Date | Try | Conversion | Penalty | Dropped Goal | Goal From Mark | Scoring System | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1871 - 1875 | No Score | 1 Goal | 1 Goal | 1 Goal | N/A | 1 | Matches decided by a majority of Goals. A Try was required to score a conversion-goal |
 | 1876 - 1885 | 1 Try | 1 Goal | 1 Goal | 1 Goal | N/A | 2 | Like above, but if number of Goals were equal, the number of Tries was used as a tie-breaker |
-| 1886 - 1891 | 1 Point | 2 Points | 3 Points | 3 Points | N/A | 3 | |
+| 1886 - 1891 | 1 Point | 2 Points | 3 Points | 3 Points | N/A | 3 |All Tests played in 1891 were played as a part of the [Home Nations Championship](https://en.wikipedia.org/wiki/1891_Home_Nations_Championship#Scoring_system), which used Scoring System 3 |
 | 1891 - 1894 | 2 Points | 3 Points | 3 Points | 4 Points | 4 Points | 4 | |
 | 1894 - 1904 | 3 Points | 2 Points | 3 Points | 4 Points | 4 Points | 5 | |
 | 1905 - 1947 | 3 Points | 2 Points | 3 Points | 4 Points | 3 Points | 6 | |
