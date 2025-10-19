@@ -16,7 +16,7 @@
     1. _Extract only international matches, using nation team Ids (**Complete**)_
 2. Structure Results
     1. This will include properly populating historical scores, especially 19th Century matches
-    - Details on scoring are detailed in the [History of Scoring in Rugby Union](./docs/history_of_scoring_in_rugby_union.md) file
+    - Details on scoring are detailed in the [History of Scoring in Rugby Union](./docs/history_of_scoring_in_rugby_union_latest.md) file
 3. Set up a database for these results
     - Potentiall using [DuckDB](https://duckdb.org/)?
 4. Systematically populate this database with new matches
