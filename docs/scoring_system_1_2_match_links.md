@@ -44,31 +44,32 @@
 | [1165](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Scotland_v_Ireland) | 1884-02-16 | Scotland | Ireland | 2-0 | 2 | |
 | [775](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#England_v_Scotland) | 1884-03-01 | England | Scotland | 1-0 | 2 | |
 | [258](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Wales_v_Ireland) | 1884-04-12 | Wales | Ireland | 1-0 | 2 | |
-| [259]() | 1885-01-03 | Wales | England |  | 2 | |
-| [260]() | 1885-01-10 | Scotland | Wales |  | 2 | |
-| [776]() | 1885-02-07 | England | Ireland |  | 2 | |
-| [12308]() | 1885-02-21 | Ireland | Scotland |  | 2 | |
-| [1166]() | 1885-03-07 | Scotland | Ireland |  | 2 | |
-| [261]() | 1886-01-02 | England | Wales |  | 2 | |
-| [262]() | 1886-01-09 | Wales | Scotland |  | 2 | |
-| [777]() | 1886-02-06 | Ireland | England |  | 2 | |
-| [1167]() | 1886-02-20 | Scotland | Ireland |  | 2 | |
-| [778]() | 1886-03-13 | Scotland | England |  | 2 | |
-| [263]() | 1887-01-08 | Wales | England |  | 2 | |
-| [779]() | 1887-02-05 | Ireland | England |  | 2 | |
-| [1168]() | 1887-02-19 | Ireland | Scotland |  | 2 | |
-| [264]() | 1887-02-26 | Scotland | Wales |  | 2 | |
-| [780]() | 1887-03-05 | England | Scotland |  | 2 | |
-| [265]() | 1887-03-12 | Wales | Ireland |  | 2 | |
-| [266]() | 1888-02-04 | Wales | Scotland |  | 2 | |
-| [267]() | 1888-03-03 | Ireland | Wales |  | 2 | |
-| [1169]() | 1888-03-10 | Scotland | Ireland |  | 2 | |
-| [269]() | 1889-02-02 | Scotland | Wales |  | 2 | |
-| [1170]() | 1889-02-16 | Ireland | Scotland |  | 2 | |
-| [270]() | 1889-03-02 | Wales | Ireland |  | 2 | |
+| [259](https://en.wikipedia.org/wiki/1885_Home_Nations_Championship#Wales_vs._England) | 1885-01-03 | Wales | England | 1-1 | 2 | [^1] |
+| [260](https://en.wikipedia.org/wiki/1885_Home_Nations_Championship#Scotland_vs._Wales) | 1885-01-10 | Scotland | Wales | 0-0 | 2 | |
+| [776](https://en.wikipedia.org/wiki/1885_Home_Nations_Championship#England_vs._Ireland) | 1885-02-07 | England | Ireland | 0-0 | 2 | [^1] |
+| [12308](http://www.rugbyarchive.net/compseasons/2?Stagione=1885) | 1885-02-21 | Ireland | Scotland | 0-1 | 2 | [^2] |
+| [1166](https://en.wikipedia.org/wiki/1885_Home_Nations_Championship#Scotland_vs._Ireland) | 1885-03-07 | Scotland | Ireland | 1-0 | 2 | |
+| [261](https://en.wikipedia.org/wiki/1886_Home_Nations_Championship#England_vs._Wales) | 1886-01-02 | England | Wales | 1-1 | 2 | [^1] |
+| [262](https://en.wikipedia.org/wiki/1886_Home_Nations_Championship#Wales_vs._Scotland) | 1886-01-09 | Wales | Scotland | 0-1 | 2 | |
+| [777](https://en.wikipedia.org/wiki/1886_Home_Nations_Championship#Ireland_vs._England) | 1886-02-06 | Ireland | England | 0-0 | 2 | [^1] |
+| [1167](https://en.wikipedia.org/wiki/1886_Home_Nations_Championship#Scotland_vs._Ireland) | 1886-02-20 | Scotland | Ireland | 4-0 | 2 | |
+| [778](https://en.wikipedia.org/wiki/1886_Home_Nations_Championship#Scotland_vs._England) | 1886-03-13 | Scotland | England | 0-0 | 2 | |
+| [263](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#Wales_vs._England) | 1887-01-08 | Wales | England | 0-0 | 2 | |
+| [779](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#Ireland_vs._England) | 1887-02-05 | Ireland | England | 2-0 | 2 | |
+| [1168](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#Ireland_vs._Scotland) | 1887-02-19 | Ireland | Scotland | 0-2 | 2 | |
+| [264](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#Scotland_vs._Wales) | 1887-02-26 | Scotland | Wales | 4-0 | 2 | |
+| [780](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#England_vs._Scotland) | 1887-03-05 | England | Scotland | 0-0 | 2 | [^1] |
+| [265](https://en.wikipedia.org/wiki/1887_Home_Nations_Championship#Wales_vs._Ireland) | 1887-03-12 | Wales | Ireland | 1-0 | 2 | |
+| [266](https://en.wikipedia.org/wiki/1888_Home_Nations_Championship#Wales_vs._Scotland) | 1888-02-04 | Wales | Scotland | 0-0 | 2 | [^1] |
+| [267](https://en.wikipedia.org/wiki/1888_Home_Nations_Championship#Ireland_vs._Wales) | 1888-03-03 | Ireland | Wales | 2-0 | 2 | |
+| [1169](https://en.wikipedia.org/wiki/1888_Home_Nations_Championship#Scotland_vs._Ireland) | 1888-03-10 | Scotland | Ireland | 1-0 | 2 | |
+| [269](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Scotland_vs._Wales) | 1889-02-02 | Scotland | Wales | 0-0 | 2 | [^1] |
+| [1170](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Ireland_vs._Scotland) | 1889-02-16 | Ireland | Scotland | 0-1 | 2 | |
+| [270](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Wales_vs._Ireland) | 1889-03-02 | Wales | Ireland | 0-0 | 2 | [^1] |
 
 -----
 ### Footnotes
 [^1]: Games Requiring Tie-breaking by number of tries scored
+[^2]: More details for match need to be tracked down
 
 -----
