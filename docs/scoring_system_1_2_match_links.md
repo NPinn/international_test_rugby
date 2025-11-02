@@ -1,18 +1,74 @@
 # Links to Match Results for all Matches in Scoring Systems 1 & 2
 
 - This document provides documentation for, and links to, all International Matches play prior to 1890, the year in which the first points scoring system was introduced.
-- The history of points scoring in rugby union can be found [here](./history_of_scoring_in_rugby_union_latest,md)
+- The history of points scoring in rugby union can be found [here](history_of_scoring_in_rugby_union_latest,md)
 ------
 ## Match Links
-| Match Id | Date | Home Team | Away Team | Scoring System |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| [751](https://en.wikipedia.org/wiki/1871_Scotland_versus_England_rugby_union_match#Match_details) | 1871-03-27 | Scotland | England | 1 |
-| [752](https://en.wikipedia.org/wiki/1871%E2%80%9372_Home_Nations_rugby_union_matches#The_match:_England_vs._Scotland) | 1872-02-05 | England | Scotland | 1 |
-| [753](https://en.wikipedia.org/wiki/1872%E2%80%9373_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1873-03-03 | Scotland | England | 1 |
-| [754](https://en.wikipedia.org/wiki/1873%E2%80%9374_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1874-02-23 | England | Scotland | 1 |
-| [755](https://en.wikipedia.org/wiki/1874%E2%80%9375_Home_Nations_rugby_union_matches#England_vs._Ireland) | 1875-02-15 | England | Ireland | 1 |
-| [756](https://en.wikipedia.org/wiki/1874%E2%80%9375_Home_Nations_rugby_union_matches#Scotland_vs._England) | 1875-03-08 | Scotland | England | 1 |
-| [758](https://en.wikipedia.org/wiki/1875%E2%80%9376_Home_Nations_rugby_union_matches#Ireland_vs._England) | 1875-12-13 | Ireland | England | 1 |
-| []() | YYYY-MM-DD | teamAname | teamBname | 2 |
+| Match Id | Date | Home Team | Away Team | Result | Scoring System | Notes |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [751](https://en.wikipedia.org/wiki/1871_Scotland_versus_England_rugby_union_match#Match_details) | 1871-03-27 | Scotland | England | 1-0 | 1 | |
+| [752](https://en.wikipedia.org/wiki/1871%E2%80%9372_Home_Nations_rugby_union_matches#The_match:_England_vs._Scotland) | 1872-02-05 | England | Scotland | 2-1 | 1 | |
+| [753](https://en.wikipedia.org/wiki/1872%E2%80%9373_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1873-03-03 | Scotland | England | 0-0 | 1 | |
+| [754](https://en.wikipedia.org/wiki/1873%E2%80%9374_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1874-02-23 | England | Scotland | 1-0 | 1 | |
+| [755](https://en.wikipedia.org/wiki/1874%E2%80%9375_Home_Nations_rugby_union_matches#England_vs._Ireland) | 1875-02-15 | England | Ireland | 2-0 | 1 | |
+| [756](https://en.wikipedia.org/wiki/1874%E2%80%9375_Home_Nations_rugby_union_matches#Scotland_vs._England) | 1875-03-08 | Scotland | England | 0-0 | 1 | |
+| [758](https://en.wikipedia.org/wiki/1875%E2%80%9376_Home_Nations_rugby_union_matches#Ireland_vs._England) | 1875-12-13 | Ireland | England | 0-1 | 1 | |
+| [759](https://en.wikipedia.org/wiki/1875%E2%80%9376_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1876-03-06 | England | Scotland | 1-0 | 2 | |
+| [760](https://en.wikipedia.org/wiki/1876%E2%80%9377_Home_Nations_rugby_union_matches#England_vs._Ireland) | 1877-02-05 | England | Ireland | 2-0 | 2 | |
+| [2035](https://en.wikipedia.org/wiki/1876%E2%80%9377_Home_Nations_rugby_union_matches#Ireland_vs._Scotland) | 1877-02-19 | Ireland | Scotland | 0-6 | 2 | |
+| [761](https://en.wikipedia.org/wiki/1876%E2%80%9377_Home_Nations_rugby_union_matches#Scotland_vs._England) | 1877-03-05 | Scotland | England | 1-0 | 2 | |
+| [762](https://en.wikipedia.org/wiki/1877%E2%80%9378_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1878-03-04 | England | Scotland | 0-0 | 2 | |
+| [763](https://en.wikipedia.org/wiki/1877%E2%80%9378_Home_Nations_rugby_union_matches#Ireland_vs._England) | 1878-03-11 | Ireland | England | 0-2 | 2 | |
+| [2037](https://en.wikipedia.org/wiki/1878%E2%80%9379_Home_Nations_rugby_union_matches#Ireland_vs._Scotland) | 1879-02-17 | Ireland | Scotland | 0-2 | 2 | |
+| [764](https://en.wikipedia.org/wiki/1878%E2%80%9379_Home_Nations_rugby_union_matches#Scotland_vs._England) | 1879-03-10 | Scotland | England | 1-1 | 2 | |
+| [765](https://en.wikipedia.org/wiki/1878%E2%80%9379_Home_Nations_rugby_union_matches#England_vs._Ireland) | 1879-03-24 | England | Ireland | 3-0 | 2 | |
+| [766](https://en.wikipedia.org/wiki/1879%E2%80%9380_Home_Nations_rugby_union_matches#Ireland_vs._England) | 1880-01-30 | Ireland | England | 0-1 | 2 | |
+| [2038](https://en.wikipedia.org/wiki/1879%E2%80%9380_Home_Nations_rugby_union_matches#Scotland_vs._Ireland) | 1880-02-14 | Scotland | Ireland | 3-0 | 2 | |
+| [767](https://en.wikipedia.org/wiki/1879%E2%80%9380_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1880-02-28 | England | Scotland | 2-0 | 2 | |
+| [768](https://en.wikipedia.org/wiki/1880%E2%80%9381_Home_Nations_rugby_union_matches#England_vs._Ireland) | 1881-02-05 | England | Ireland | 2-0 | 2 | |
+| [252](https://en.wikipedia.org/wiki/1880%E2%80%9381_Home_Nations_rugby_union_matches#England_vs._Wales) | 1881-02-16 | England | Wales | 8-0 | 2 | |
+| [2039](https://en.wikipedia.org/wiki/1880%E2%80%9381_Home_Nations_rugby_union_matches#Ireland_vs._Scotland) | 1881-02-19 | Ireland | Scotland | 1-0 | 2 | |
+| [769](https://en.wikipedia.org/wiki/1880%E2%80%9381_Home_Nations_rugby_union_matches#Scotland_vs._England) | 1881-03-19 | Scotland | England | 1-1 | 2 | |
+| [253](https://en.wikipedia.org/wiki/1881%E2%80%9382_Home_Nations_rugby_union_matches#Ireland_vs._Wales) | 1882-01-28 | Ireland | Wales | 0-2 | 2 | |
+| [770](https://en.wikipedia.org/wiki/1881%E2%80%9382_Home_Nations_rugby_union_matches#Ireland_vs._England) | 1882-02-06 | Ireland | England | 0-0 | 2 | * |
+| [2040](https://en.wikipedia.org/wiki/1881%E2%80%9382_Home_Nations_rugby_union_matches#Scotland_vs._Ireland) | 1882-02-18 | Scotland | Ireland | 0-0 | 2 | * |
+| [771](https://en.wikipedia.org/wiki/1881%E2%80%9382_Home_Nations_rugby_union_matches#England_vs._Scotland) | 1882-03-04 | England | Scotland | 0-0 | 2 | * |
+| [254](https://en.wikipedia.org/wiki/1883_Home_Nations_Championship#Wales_vs._England) | 1882-12-16 | Wales | England | 0-2 | 2 | |
+| [255](https://en.wikipedia.org/wiki/1883_Home_Nations_Championship#Scotland_vs._Wales) | 1883-01-08 | Scotland | Wales | 3-1 | 2 | |
+| [772](https://en.wikipedia.org/wiki/1883_Home_Nations_Championship#England_vs._Ireland) | 1883-02-05 | England | Ireland | 1-0 | 2 | |
+| [1164](https://en.wikipedia.org/wiki/1883_Home_Nations_Championship#Ireland_vs._Scotland) | 1883-02-17 | Ireland | Scotland | 0-1 | 2 | |
+| [773](https://en.wikipedia.org/wiki/1883_Home_Nations_Championship#Scotland_vs._England) | 1883-03-03 | Scotland | England | 0-0 | 2 | * |
+| [256](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#England_v_Wales) | 1884-01-05 | England | Wales | 1-1 | 2 | |
+| [257](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Wales_v_Scotland) | 1884-01-12 | Wales | Scotland | 0-1 | 2 | |
+| [774](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Ireland_v_England) | 1884-02-04 | Ireland | England | 0-1 | 2 | |
+| [1165](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Scotland_v_Ireland) | 1884-02-16 | Scotland | Ireland | 2-0 | 2 | |
+| [775](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#England_v_Scotland) | 1884-03-01 | England | Scotland | 1-0 | 2 | |
+| [258](https://en.wikipedia.org/wiki/1884_Home_Nations_Championship#Wales_v_Ireland) | 1884-04-12 | Wales | Ireland | 1-0 | 2 | |
+| [259]() | 1885-01-03 | Wales | England |  | 2 | |
+| [260]() | 1885-01-10 | Scotland | Wales |  | 2 | |
+| [776]() | 1885-02-07 | England | Ireland |  | 2 | |
+| [12308]() | 1885-02-21 | Ireland | Scotland |  | 2 | |
+| [1166]() | 1885-03-07 | Scotland | Ireland |  | 2 | |
+| [261]() | 1886-01-02 | England | Wales |  | 2 | |
+| [262]() | 1886-01-09 | Wales | Scotland |  | 2 | |
+| [777]() | 1886-02-06 | Ireland | England |  | 2 | |
+| [1167]() | 1886-02-20 | Scotland | Ireland |  | 2 | |
+| [778]() | 1886-03-13 | Scotland | England |  | 2 | |
+| [263]() | 1887-01-08 | Wales | England |  | 2 | |
+| [779]() | 1887-02-05 | Ireland | England |  | 2 | |
+| [1168]() | 1887-02-19 | Ireland | Scotland |  | 2 | |
+| [264]() | 1887-02-26 | Scotland | Wales |  | 2 | |
+| [780]() | 1887-03-05 | England | Scotland |  | 2 | |
+| [265]() | 1887-03-12 | Wales | Ireland |  | 2 | |
+| [266]() | 1888-02-04 | Wales | Scotland |  | 2 | |
+| [267]() | 1888-03-03 | Ireland | Wales |  | 2 | |
+| [1169]() | 1888-03-10 | Scotland | Ireland |  | 2 | |
+| [269]() | 1889-02-02 | Scotland | Wales |  | 2 | |
+| [1170]() | 1889-02-16 | Ireland | Scotland |  | 2 | |
+| [270]() | 1889-03-02 | Wales | Ireland |  | 2 | |
+
+-----
+### Notes
+* Games Requiring Tie-breaking by number of tries scored
 
 -----
