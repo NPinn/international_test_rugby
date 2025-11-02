@@ -9,8 +9,8 @@
     - This data is sourced from [Rugby Football History](https://www.rugbyfootballhistory.com/), specifically their page on [Scoring Through the Ages](https://www.rugbyfootballhistory.com/scoring.htm)
 - Upon Investigating the data, it was found that matches up to 1889 were using Scoring System 2
 - Previous Versions of this file:
-    - [v1](history_of_scoring_in_rugby_union_v1.md)
-    - [v2](history_of_scoring_in_rugby_union_v2.md)
+    - [v1](../legacy/docs/history_of_scoring_in_rugby_union_v1.md)
+    - [v2](../legacy/docs/history_of_scoring_in_rugby_union_v2.md)
 -----
 ## Scoring over Time
 | Date | Try | Conversion | Penalty | Dropped Goal | Goal From Mark | Scoring System | Footnotes | Date Range |

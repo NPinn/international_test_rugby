@@ -8,6 +8,7 @@
 - The table highlighted in this [Wikipedia Page](https://en.wikipedia.org/wiki/History_of_rugby_union#Scoring) page will act as the guide for changes in scoring, though this will be altered based on match data
     - This data is sourced from [Rugby Football History](https://www.rugbyfootballhistory.com/), specifically their page on [Scoring Through the Ages](https://www.rugbyfootballhistory.com/scoring.htm)
 - Upon Investigating the data, it was found that matches up to 1889 were using Scoring System 2
+- [Latest Version of this File](../../docs/history_of_scoring_in_rugby_union_latest.md)
 - [Previous Version of this file](history_of_scoring_in_rugby_union_v1.md)
 -----
 ## Scoring over Time
