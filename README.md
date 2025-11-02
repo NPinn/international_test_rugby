@@ -30,4 +30,7 @@
     3. Tournament Performances
     4. [Scorigami](https://nflscorigami.com), but Rugby?
     5. All of the above, but using all of the different scoring systems used over time
+
+[Immediate To-Dos](./docs/to_do.md)
+
 ------
