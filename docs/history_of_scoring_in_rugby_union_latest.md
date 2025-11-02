@@ -15,8 +15,8 @@
 ## Scoring over Time
 | Date | Try | Conversion | Penalty | Dropped Goal | Goal From Mark | Scoring System | Footnotes | Date Range |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1871 - 1875 | No Score | 1 Goal | 1 Goal | 1 Goal | N/A | 1 | [^1] | `matchDate <= 1875-12-31` |
-| 1876 - 1889 | 1 Try | 1 Goal | 1 Goal | 1 Goal | N/A | 2 | [^2] | `matchDate` between `1876-01-01` & `1889-12-31` |
+| 1871 - 1875 | No Score | 1 Goal | 1 Goal | 1 Goal | N/A | 1 | [^1][^7] | `matchDate <= 1875-12-31` |
+| 1876 - 1889 | 1 Try | 1 Goal | 1 Goal | 1 Goal | N/A | 2 | [^2][^7] | `matchDate` between `1876-01-01` & `1889-12-31` |
 | 1890 - 1891 | 1 Point | 2 Points | 3 Points | 3 Points | N/A | 3 | [^3] | `matchDate` between `1890-01-01` & `1891-12-31` |
 | 1892 - 1893 | 2 Points | 3 Points | 3 Points | 4 Points | 4 Points | 4 | | `matchDate` between `1892-01-01` & `1893-12-31` |
 | 1894 - 1904 | 3 Points | 2 Points | 3 Points | 4 Points | 4 Points | 5 | [^4] | `matchDate` between `1894-01-01` & `1904-12-31` |
@@ -34,3 +34,4 @@
 [^4]: All Tests played in 1894 were played as a part of the [1894 Home Nations Championship](https://en.wikipedia.org/wiki/1894_Home_Nations_Championship#Scoring_system), which used Scoring System 5
 [^5]: The last [_Goal From Mark_](https://en.wikipedia.org/wiki/Goal_from_mark) was scored by Romania against France on 1971-12-11. This means that, for practical purposes, 1971 is the only year that meets Scoring System 8
 [^6]: As the only diference between Scoring System 9 and Scoring System 8 is the fact that the [_Goal From Mark_](https://en.wikipedia.org/wiki/Goal_from_mark) was replaced by the Free Kick Law in 1977, and the last Goal From Mark was kicked in 1971, this scoring system can be applied to all matches from 1972 to 1991
+[^7]: All matches and their results played under this scoring system can be found [here](scoring_system_1_2_match_links.md)
