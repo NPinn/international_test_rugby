@@ -66,6 +66,7 @@
 | [269](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Scotland_vs._Wales) | 1889-02-02 | Scotland | Wales | 0-0 | 2 | [^1] |
 | [1170](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Ireland_vs._Scotland) | 1889-02-16 | Ireland | Scotland | 0-1 | 2 | |
 | [270](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Wales_vs._Ireland) | 1889-03-02 | Wales | Ireland | 0-0 | 2 | [^1] |
+| | | | | | | |
 
 -----
 ### Footnotes

@@ -7,7 +7,7 @@
     - For instance, the first 14 years of international rugby saw matches decided by the number of goals scored, rather than the number of points scored
 - The table highlighted in this [Wikipedia Page](https://en.wikipedia.org/wiki/History_of_rugby_union#Scoring) page will act as the guide for changes in scoring, though this will be altered based on match data
     - This data is sourced from [Rugby Football History](https://www.rugbyfootballhistory.com/), specifically their page on [Scoring Through the Ages](https://www.rugbyfootballhistory.com/scoring.htm)
-- Upon Investigating the data, it was found that matches up to 1889 were using Scoring System 2
+- Upon Investigating the data, it was found that matches up to (and including) 1890 were using Scoring System 2
 - Previous Versions of this file:
     - [v1](../legacy/docs/history_of_scoring_in_rugby_union_v1.md)
     - [v2](../legacy/docs/history_of_scoring_in_rugby_union_v2.md)
@@ -16,8 +16,8 @@
 | Date | Try | Conversion | Penalty | Dropped Goal | Goal From Mark | Scoring System | Footnotes | Date Range |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1871 - 1875 | No Score | 1 Goal | 1 Goal | 1 Goal | N/A | 1 | [^1][^7] | `matchDate <= 1875-12-31` |
-| 1876 - 1889 | 1 Try | 1 Goal | 1 Goal | 1 Goal | N/A | 2 | [^2][^7] | `matchDate` between `1876-01-01` & `1889-12-31` |
-| 1890 - 1891 | 1 Point | 2 Points | 3 Points | 3 Points | N/A | 3 | [^3] | `matchDate` between `1890-01-01` & `1891-12-31` |
+| 1876 - 1890 | 1 Try | 1 Goal | 1 Goal | 1 Goal | N/A | 2 | [^2][^7] | `matchDate` between `1876-01-01` & `1890-12-31` |
+| 1891 | 1 Point | 2 Points | 3 Points | 3 Points | N/A | 3 | [^3] | `matchDate` between `1891-01-01` & `1891-12-31` |
 | 1892 - 1893 | 2 Points | 3 Points | 3 Points | 4 Points | 4 Points | 4 | | `matchDate` between `1892-01-01` & `1893-12-31` |
 | 1894 - 1904 | 3 Points | 2 Points | 3 Points | 4 Points | 4 Points | 5 | [^4] | `matchDate` between `1894-01-01` & `1904-12-31` |
 | 1905 - 1947 | 3 Points | 2 Points | 3 Points | 4 Points | 3 Points | 6 | | `matchDate` between `1905-01-01` & `1947-12-31` |
