@@ -2,8 +2,8 @@ import requests
 import json
 import os
 import glob
+from credentials import *
 
-WR_API = "https://api.wr-rims-prod.pulselive.com/rugby/v3"
 
 print('Extracting Details')
 page = 0
