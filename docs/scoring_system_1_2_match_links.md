@@ -66,7 +66,12 @@
 | [269](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Scotland_vs._Wales) | 1889-02-02 | Scotland | Wales | 0-0 | 2 | [^1] |
 | [1170](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Ireland_vs._Scotland) | 1889-02-16 | Ireland | Scotland | 0-1 | 2 | |
 | [270](https://en.wikipedia.org/wiki/1889_Home_Nations_Championship#Wales_vs._Ireland) | 1889-03-02 | Wales | Ireland | 0-0 | 2 | [^1] |
-| | | | | | | |
+| [271](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#Wales_v_Scotland) | 1890-02-01 | Wales | Scotland | 0-1 | 2 | |
+| [272](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#England_v_Wales) | 1890-02-15 | England | Wales | 0-0 | 2 | [^1] |
+| [1171](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#Scotland_v_Ireland) | 1890-02-22 | Scotland | Ireland | 1-0 | 2 | |
+| [273](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#Ireland_v_Wales) | 1890-03-01 | Ireland | Wales | 1-1 | 2 | |
+| [782](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#Scotland_v_England) | 1890-03-01 | Scotland | England | 0-1 | 2 | |
+| [783](https://en.wikipedia.org/wiki/1890_Home_Nations_Championship#England_v_Ireland) | 1890-03-15 | England | Ireland | 0-0 | 2 | [^1] |
 
 -----
 ### Footnotes
