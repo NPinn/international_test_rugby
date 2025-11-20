@@ -1,7 +1,7 @@
 # Links to Match Results for all Matches in Scoring Systems 1 & 2
 
 - This document provides documentation for, and links to, all International Matches play prior to 1890, the year in which the first points scoring system was introduced.
-- The history of points scoring in rugby union can be found [here](history_of_scoring_in_rugby_union_latest,md)
+- The history of points scoring in rugby union can be found [here](history_of_scoring_in_rugby_union_latest.md)
 ------
 ## Match Links
 | Match Id | Date | Home Team | Away Team | Result | Scoring System | Footnotes |
